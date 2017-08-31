@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+	<img src="http://mohamedradwan.com/wp-content/uploads/2017/08/TFS-Migration-Guide-With-New-Hardware-Cover.png" alt="Guide Cover"
+  height="auto" width="944">
+	<br>
+</h1>
+
+
 # Upgrading TFS 2010 to TFS 2012 with Migration to a New Hardware Guide
 
 This Guide explains a step-by-step tutorial with videos on how to upgrade existing TFS 2010 to TFS 2012-Update-1 with migration to a new hardware, the environment including SharePoint 2010, SQL Server 2012 (DB, Analysis Service and Reporting Service) and how to migrate the old data to work with the new services, the Guide will illustrates its steps in videos as well as images.
