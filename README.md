@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<img src="http://mohamedradwan.com/wp-content/uploads/2017/08/TFS-Migration-Guide-With-New-Hardware-Cover.png" alt="Guide Cover"
-  height="auto" width="944">
+  height="auto" width="708">
 	<br>
 </h1>
 
